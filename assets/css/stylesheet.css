@@ -17,5 +17,8 @@ header {
     align-items: center;
     font-size: 2em;
     width: 60%;
+}
 
+main {
+    display: flex;
 }
