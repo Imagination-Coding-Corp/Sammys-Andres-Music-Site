@@ -49,6 +49,17 @@ main {
     font-size: 30px;
  }
 
+ form {
+   color: aqua;
+   width: 80%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   flex-wrap: wrap;
+   flex-direction: column;
+ }
+
  .list-group list-group-flush {
     display: flex;
     flex-direction: row;
