@@ -8,17 +8,21 @@
     box-sizing: border-box;
 }
 
-header {
+.navbar-collapse {
     display: flex;
-}
-#header-title {
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    font-size: 2em;
-    width: 60%;
+    background-color: black;
 }
 
-main {
+ .navbarNav {
     display: flex;
-}
+    justify-content: space-evenly;
+ }
+
+.nav-link {
+    color: aqua;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+
+ }
