@@ -1,0 +1,15 @@
+User story for Music Site
+
+as a User when I visit a Music Website I want to see a polished ui with
+a header, nav title and nav links for each of four sections of the page
+1. Nav Bar
+	1. Text, css, embedded section id's for quick navigation.
+
+as a User when I visit a Music Website I want to see four distinct sections and accompanying images and text with a form for input.
+1. A container that will store the smaller four containers.
+2. Create each smaller container.
+3. Add text, styling, spacing, ect.
+
+as a User when I visit a Music Website when scrolling to the bottom of the page, I see the Webpage Footer. I want to see nav links to more resources and a section to reference the website's creator.
+1. Create footer
+	1. Add text, css, embed hrefs, add creator section and info.
