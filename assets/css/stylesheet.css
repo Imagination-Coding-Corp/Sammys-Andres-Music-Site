@@ -15,6 +15,10 @@ main {
     flex-wrap: wrap;
 }
 
+.nav-link:hover {
+   color: red;
+}
+
 .navbar-collapse {
     display: flex;
     background-color: black;
@@ -60,13 +64,20 @@ main {
    flex-direction: column;
  }
 
- .list-group list-group-flush {
-    display: flex;
-    flex-direction: row;
+ footer {
+   display: flex;
+   background-color: black;
+   border-top: 10px double aqua ;
  }
 
- .list-group-item {
-    color: aqua;
-    display: flex;
-    justify-content: space-between;
+ footer ul {
+  display: flex;
+ }
+
+ footer ul li {
+   color: aqua;
+   font-size: 20px;
+   flex-direction: row;
+   padding: 50px;
+   justify-content: space-between;
  }
