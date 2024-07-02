@@ -1,0 +1,9 @@
+# ACCEPTANCE CRITERIA
+
+## GIVEN I need to find information about artists
+## WHEN I load the landing page
+## THEN I am presented with header with nav links, a body with four sections for music resources, a footer with nav links to additional music resources and a form where I can input artists information to populate relevant data from an API source
+
+## GIVEN
+## WHEN
+## THEN

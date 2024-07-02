@@ -1,0 +1,5 @@
+# USER STORY
+
+## AS A music lover
+## I WANT a music site
+## SO THAT I can find information and lyrics from different artists
