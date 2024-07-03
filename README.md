@@ -15,7 +15,7 @@ Our Magical World of Music.
 This project does not require an installation. However, you are welcome to to either clone the repository and access the project files or fork the repo.
 
 ## Usage
-Deployed on [GitHub Pages]()
+Deployed on [GitHub Pages](https://imagination-coding-corp.github.io/Sammys-Andres-Music-Site/)
 
 ![Image of Music Website]()
 
