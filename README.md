@@ -20,7 +20,7 @@ Deployed on [GitHub Pages]()
 ![Image of Music Website]()
 
 ## Credits
-Samuel Wlodawsky
-Andres Albornoz
+- Samuel Wlodawsky
+- Andres Albornoz
 
 ## License
