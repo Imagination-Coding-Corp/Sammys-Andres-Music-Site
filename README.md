@@ -1,2 +1,2 @@
 # Sammys & Andres Music Site
-My Magical World of Music.
+Our Magical World of Music.
